@@ -1,36 +1,16 @@
-# Submission Plan
+# Project
+- Title: AI competition to predict user inconvenience due to system quality changes
+- Goal: Analyze unidentified system records (log and numerical data) to diagnose user discomfort with changes in system quality
+- Category: Classification, Log Data
+- Tool Used: python, pandas, sklearn, catboost, lightgbm, ngboost
+- Period: Jan, 2021 ~ Feb, 2021
 
-## D-6: 파생변수 추가 확인
-### 1.
-### 2.
-### 3. 
+# Data
+- Data: System Log Data
+- Shape: (828,624 * 16), (16,554,663 * 6)
+- From: Dacon(LG AI Research)
 
-## D-5: 파생변수 추가 확인2
-### 1.
-### 2.
-### 3. 
-
-## D-4: 베스트 모델 확인
-### 1.
-### 2.
-### 3. 
-
-## D-3: 베스트 모델 확인2
-### 1.
-### 2.
-### 3. 
-
-## D-2: 앙상블 제출
-### 1.
-### 2.
-### 3. 
-
-## D-1: 보류
-### 1.
-### 2.
-### 3. 
-
-## D-DAY: 보류
-### 1.
-### 2.
-### 3. 
+# Evaluation
+- Metric: AUC
+- Public Score : 53th(12.6%) / 0.83775
+- Private Score: 43th(10.0%) / 0.83557
