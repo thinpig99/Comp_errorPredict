@@ -13,4 +13,4 @@
 # Evaluation
 - Metric: AUC
 - Public Score : 53th(12.6%) / 0.83775
-- Private Score: 43th(10.0%) / 0.83557
+- Private Score: 42th(10.0%) / 0.83557
